@@ -31,7 +31,7 @@
 		<tbody>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Sum.cpp"> Two Sum (Leetcode - 1) </a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Sum.cpp"> Two Sum (Leetcode - 1) - yes</a>
 				</td>
 			</tr>
 			<tr>
