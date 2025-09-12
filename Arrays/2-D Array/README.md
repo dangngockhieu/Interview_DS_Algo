@@ -37,7 +37,7 @@
       </tr>
 			<tr>
           <td>
-					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Game%20of%20Life">Game of Life (Leetcode-289)</a>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Game%20of%20Life">Game of Life (Leetcode-289)- Yes</a>
 				  </td>
       </tr>
 			<tr>
