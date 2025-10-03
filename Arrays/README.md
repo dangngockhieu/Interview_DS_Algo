@@ -161,7 +161,7 @@
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Non-decreasing_Array.cpp">Non-decreasing Array (Leetcode - 665)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Non-decreasing_Array.cpp">Non-decreasing Array (Leetcode - 665)   ok</a>
 				</td>
 			</tr>
 			<tr>
