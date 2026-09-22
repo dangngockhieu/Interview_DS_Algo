@@ -89,5 +89,25 @@
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Dijkstra'a%20Based%20Problems/Find%20Minimum%20Time%20to%20Reach%20Last%20Room%20II.cpp"> Find Minimum Time to Reach Last Room II (Leetcode - 3342)</a>
 				</td>
 			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Dijkstra'a%20Based%20Problems/Minimum%20Cost%20Path%20with%20Edge%20Reversals.cpp"> Minimum Cost Path with Edge Reversals (Leetcode - 3650)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Dijkstra'a%20Based%20Problems/Minimum%20Cost%20to%20Convert%20String%20II.cpp"> Minimum Cost to Convert String II (Leetcode - 2977)</a>
+				</td>
+			</tr>
+			<tr>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Dijkstra'a%20Based%20Problems/Find%20a%20Safe%20Walk%20Through%20a%20Grid.cpp"> Find a Safe Walk Through a Grid (Leetcode - 3286)</a>
+				</td>
+			</tr>
+			<tr>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Dijkstra'a%20Based%20Problems/Network%20Recovery%20Pathways.cpp"> Network Recovery Pathways (Leetcode - 3620)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>

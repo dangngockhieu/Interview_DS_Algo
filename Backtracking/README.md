@@ -221,5 +221,15 @@
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Longest%20Subsequence%20Repeated%20k%20Times.cpp"> Longest Subsequence Repeated k Times (Leetcode - 2014)</a>
 				</td>
 			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/24%20Game.cpp"> 24 Game (Leetcode - 679)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Pyramid%20Transition%20Matrix.cpp"> Pyramid Transition Matrix (Leetcode - 756)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>

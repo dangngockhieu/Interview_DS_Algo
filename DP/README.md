@@ -144,11 +144,6 @@ Scramble String (Leetcode-87) (Memoized) </a>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Jump_Game_III.cpp">Jump Game III (2 approaches) (Leetcode-1306)</a>
-				</td>
-			</tr>
-			<tr>
-        			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Jump%20Game%20VI.cpp">Jump Game VI (3 approaches) (Leetcode-1696)</a>
 				</td>
 			</tr>
@@ -170,11 +165,6 @@ Scramble String (Leetcode-87) (Memoized) </a>
 			<tr>
         			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Furthest%20Building%20You%20Can%20Reach.cpp">Furthest Building You Can Reach (Leetcode - 1642)</a>
-				</td>
-			</tr>
-			<tr>
-        			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Count%20Submatrices%20With%20All%20Ones">Count Submatrices With All Ones (Leetcode - 1504)</a>
 				</td>
 			</tr>
 			<tr>
@@ -273,8 +263,8 @@ Scramble String (Leetcode-87) (Memoized) </a>
 				</td>
 			</tr>
 			<tr>
-        			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Triangle">Triangle (3 approaches) (Leetcode-120)</a>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Triangle.cpp"> Triangle (Leetcode - 120)</a>
 				</td>
 			</tr>
 			<tr>
@@ -726,13 +716,93 @@ Scramble String (Leetcode-87) (Memoized) </a>
 				</td>
 			</tr>
 			</tr>
-        			<td>
+        		<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Find%20the%20Original%20Typed%20String%20II.cpp"> Find the Original Typed String II (Leetcode - 3333)</a>
 				</td>
 			</tr>
 			</tr>
-        			<td>
+        		<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Ways%20to%20Express%20an%20Integer%20as%20Sum%20of%20Powers.cpp"> Ways to Express an Integer as Sum of Powers (Leetcode - 2787)</a>
+				</td>
+			</tr>
+			</tr>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Ones%20and%20Zeroes.cpp"> Ones and Zeroes (Leetcode - 474)</a>
+				</td>
+			</tr>
+			</tr>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Count%20Partitions%20With%20Max-Min%20Difference%20at%20Most%20K.cpp"> Count Partitions With Max-Min Difference at Most K (Leetcode - 3578)</a>
+				</td>
+			</tr>
+			</tr>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Maximum%20Profit%20from%20Trading%20Stocks%20with%20Discounts.cpp"> Maximum Profit from Trading Stocks with Discounts (Leetcode - 3562)</a>
+				</td>
+			</tr>
+			</tr>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20V.cpp"> Best Time to Buy and Sell Stock V (Leetcode - 3573)</a>
+				</td>
+			</tr>
+			</tr>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Maximum%20Walls%20Destroyed%20by%20Robots.cpp"> Maximum Walls Destroyed by Robots (Leetcode - 3661)</a>
+				</td>
+			</tr>
+			</tr>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers.cpp"> Minimum Distance to Type a Word Using Two Fingers (Leetcode - 1320)</a>
+				</td>
+			</tr>
+			</tr>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Maximum%20Score%20From%20Grid%20Operations.cpp"> Maximum Score From Grid Operations (Leetcode - 3225)</a>
+				</td>
+			</tr>
+			</tr>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Jump%20Game%20V.cpp"> Jump Game V (Leetcode - 1340)</a>
+				</td>
+			</tr>
+			</tr>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Jump%20Game%20VII.cpp"> Jump Game VII (Leetcode - 1871)</a>
+				</td>
+			</tr>
+			</tr>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Number%20of%20ZigZag%20Arrays%20I.cpp"> Number of ZigZag Arrays I (Leetcode - 3699)</a>
+				</td>
+			</tr>
+			</tr>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD.cpp"> Find the Number of Subsequences With Equal GCD (Leetcode - 3336)</a>
+				</td>
+			</tr>
+			</tr>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Stone%20Game%20IV.cpp"> Stone Game IV (Leetcode - 1510)</a>
+				</td>
+			</tr>
+			</tr>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Distinct%20Subsequences%20II.cpp"> Distinct Subsequences II (Leetcode - 940)</a>
+				</td>
+			</tr>
+			</tr>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Maximum%20Score%20of%20Non-overlapping%20Intervals.cpp"> Maximum Score of Non-overlapping Intervals (Leetcode - 3414)</a>
+				</td>
+			</tr>
+			</tr>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments.cpp"> Number of Sets of K Non-Overlapping Line Segments (Leetcode - 1621)</a>
+				</td>
+			</tr>
+			</tr>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Find%20X%20Value%20of%20Array%20I.cpp"> Find X Value of Array I (Leetcode - 3524)</a>
 				</td>
 			</tr>
 		</tbody>

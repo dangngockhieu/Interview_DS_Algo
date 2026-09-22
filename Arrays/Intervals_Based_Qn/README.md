@@ -1,4 +1,4 @@
-<a href="https://github.com/MAZHARMIK"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/82b228a3648bf44fc1163ef44c62fcc60081495e/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_red_aa0000.png"></a>
+<img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/icon.png" align="right" /><a href="https://github.com/MAZHARMIK"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://github.blog/wp-content/uploads/2008/12/forkme_left_orange_ff7600.png?resize=149%2C149" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_red_aa0000.png"></a>
 <img src="https://helloacm.com/wp-content/uploads/2019/12/merge-intervals.jpg" width="600" height="250">
 
 # Arrays/Intervals_Based_Qns : :triangular_flag_on_post:
@@ -46,7 +46,7 @@
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Intervals_Based_Qn/Remove%20Covered%20Intervals">Remove Covered Intervals (Leetcode-1288)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Intervals_Based_Qn/Remove%20Covered%20Intervals.cpp">Remove Covered Intervals (Leetcode-1288)</a>
 				</td>
 			</tr>
 			<tr>
@@ -133,6 +133,16 @@
 			<tr>
         			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Intervals_Based_Qn/Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended.cpp"> Maximum Number of Events That Can Be Attended (Leetcode - 1353)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Intervals_Based_Qn/Minimum%20Operations%20to%20Make%20Array%20Elements%20Zero.cpp"> Minimum Operations to Make Array Elements Zero (Leetcode - 3495)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Intervals_Based_Qn/Set%20Intersection%20Size%20At%20Least%20Two.cpp"> Set Intersection Size At Least Two (Leetcode - 757)</a>
 				</td>
 			</tr>
 		</tbody>
